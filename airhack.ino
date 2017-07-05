@@ -32,8 +32,8 @@ int8_t  dig_H6;
 
 /************************* Your Milkcocoa Setup *********************************/
 
-#define MILKCOCOA_APP_ID      "hotj4je1bed"
-#define MILKCOCOA_DATASTORE   "esp8266"
+#define MILKCOCOA_APP_ID      "--your_id--"
+#define MILKCOCOA_DATASTORE   "--your_data_store--"
 
 /************* Milkcocoa Setup (you don't need to change this!) ******************/
 
